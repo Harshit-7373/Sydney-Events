@@ -1,6 +1,6 @@
 # Sydney Events 🎫🇦🇺
 
-A dynamic web application that automatically scrapes and displays upcoming events in **Sydney, Australia** using open-source tools.
+A dynamic web application that automatically scrapes and displays upcoming events in **Sydney** using open-source tools.
 
 ## 🌟 Features
 
